@@ -1,9 +1,12 @@
 html, body{
     height: 50 %;
-    background-image: url(https://static.pexels.com/photos/28026/pexels-photo-28026.jpg) 
+    background-image: url(https://openclipart.org/download/248388/dotted_background.svg) 
 }
 .header{
-    background-color: lightblue;
+    font-size: 50px;
+}
+img {
+    vertical-align: middle;
 }
 .content-wrapper{
     height: 100px;  
